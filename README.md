@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayan Abdullahi Dhaqane</h1>
-<h3 align="center">Here's an updated subtitle reflecting your expertise as a MERN stack developer: 
+<h3 align="center">
   Building dynamic and scalable web applications using the power of the MERN stack, with a focus on creating seamless user experiences and innovative solutions.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaandhaqane" alt="ayaandhaqane" /></a> </p>
