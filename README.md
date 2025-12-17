@@ -4,7 +4,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayaandhaqane" alt="ayaandhaqane" /></a> </p>
 
-- 🌱 I’m currently learning **typescript and next js**
 
 - 📫 How to reach me **ayaandhaqane4155@gmail.com**
 
